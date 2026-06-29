@@ -125,3 +125,15 @@ All components use TailwindCSS with CSS custom properties. Override the theme:
 ## License
 
 MIT — use for any personal or commercial project.
+
+## Get the Premium Version
+
+**$19** — React Dashboard Kit (Premium)
+
+The premium version includes everything in the free tier plus:
+
+- ✅ **Priority support** — Get direct help when you're stuck
+- ✅ **Lifetime updates** — All future improvements, free forever
+- ✅ **Example configurations** — Production-ready theme presets, custom color schemes, and real-world dashboard layouts
+
+[🛒 Buy on Gumroad →](https://gum.co/react-dashboard-kit)
